@@ -1,6 +1,6 @@
 # Simple Gallery
 
-Simple Gallery is a Flutter app for browsing and managing photos and videos. The app uses an MVVM structure and a dark plum theme with soft pink and lavender accents.
+Mostly mobile phones have stopped providing default gallery apps and most apps in the google play store are filled with ads so I just decided to create my own simple gallery app. This is the first version, will add new features in coming weeks.
 
 ## Features currently implemented
 
